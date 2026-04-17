@@ -1,7 +1,7 @@
 # sentinel
 
-##Como baixar
+## Como baixar
 
-###clique em Sentinel.exex
+### clique em Sentinel.exex
 
-###Clique em 'view raw' ou no ícone de download
+### Clique em 'view raw' ou no ícone de download
