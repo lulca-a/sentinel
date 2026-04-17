@@ -1,0 +1,16 @@
+# Ambiente
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Build / executáveis
+build/
+dist/
+
+# PyInstaller
+*.spec
+
+# Outros (opcional)
+*.log
