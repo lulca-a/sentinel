@@ -1,4 +1,3 @@
-# sentinel
 
 # Como baixar
 
